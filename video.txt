@@ -1,0 +1,311 @@
+13、vuemastery
+
+Beginner
+Intro to Vue 3 + TypeScript
+1. Why Vue & TypeScript
+https://player.vimeo.com/video/467481375
+2. Setting Up Vue 3 & TypeScript
+https://player.vimeo.com/video/473662632
+3. Creating Components with TypeScript
+https://player.vimeo.com/video/473998588
+4. Type Fundamentals
+https://player.vimeo.com/video/486226307
+5. Defining Custom Types
+https://player.vimeo.com/video/492858617
+6. Data with Custom Types
+https://player.vimeo.com/video/501230219
+7. Props with Types
+https://player.vimeo.com/video/505794251
+8. Computed & Methods with Custom Types
+https://player.vimeo.com/video/510916818
+9. Next Steps
+https://player.vimeo.com/video/516377523
+10. Bonus: Composition API with TypeScript
+https://player.vimeo.com/video/519596515
+
+Unit Testing Vue 3
+1. What to test
+https://player.vimeo.com/video/510489703
+2. Writing a Unit Test with Jest
+https://player.vimeo.com/video/514104358
+3. Testing Props & User Interaction
+https://player.vimeo.com/video/514106269
+4. Testing Emitted Events
+https://player.vimeo.com/video/514344677
+5. Testing API Calls
+https://player.vimeo.com/video/518376232
+6. Stubbing Child Components
+https://player.vimeo.com/video/518384316
+
+intermediate
+Vue 3 Composition API
+1. Why the Composition API
+https://player.vimeo.com/video/364111799
+2. Setup & Reactive References
+https://player.vimeo.com/video/364140610
+3. Methods
+https://player.vimeo.com/video/365085315
+4. Computed Properties
+https://player.vimeo.com/video/365099441
+5. The Reactive Syntax
+https://player.vimeo.com/video/365160899
+6. Modularizing
+https://player.vimeo.com/video/365352006
+7. Lifecycle Hooks
+https://player.vimeo.com/video/372753110
+8. Watch
+https://player.vimeo.com/video/372755942
+9. Sharing State
+https://player.vimeo.com/video/375785689
+10. Suspense
+https://player.vimeo.com/video/420508038
+11. Teleport
+https://player.vimeo.com/video/424955491
+
+
+Lightning Fast Builds w/ Vite
+1. Intro to Vite
+https://player.vimeo.com/video/570298143
+2. CSS & Debugging
+https://player.vimeo.com/video/574222564
+3. Working with Assets
+https://player.vimeo.com/video/574224291
+4. Getting Vite working with Vue
+https://player.vimeo.com/video/574224535
+5. Moving to Vite
+https://player.vimeo.com/video/574225014
+
+
+Vue 3 Forms
+1. Introduction
+https://player.vimeo.com/video/457363869
+2. Base Input
+https://player.vimeo.com/video/458419816
+3. Base Select
+https://player.vimeo.com/video/459058559
+4. Auto-importing components
+https://player.vimeo.com/video/467985438
+5. Base Checkbox
+https://player.vimeo.com/video/478759502
+6. BaseRadio
+https://player.vimeo.com/video/480558076
+7. BaseRadioGroup
+https://player.vimeo.com/video/493121878
+8. Submitting Forms
+https://player.vimeo.com/video/505012138
+9. Basic a11y for our components
+https://player.vimeo.com/video/517344724
+
+
+Validating Vue 3 Forms
+1. Why Vee-Validate?
+https://player.vimeo.com/video/567608456
+2. Setting Up
+https://player.vimeo.com/video/577814885
+3. Validating at form level
+https://player.vimeo.com/video/583095529
+4. Submitting bigger forms
+https://player.vimeo.com/video/604133291
+5. Using YUP for validations
+https://player.vimeo.com/video/620302340
+6. Lazy Validation
+https://player.vimeo.com/video/631441012
+
+
+TypeScript Friendly Vue 3
+1. Introduction to the Script Setup Syntax
+https://player.vimeo.com/video/648852984
+2. Reactive Variables with Type Inference
+https://player.vimeo.com/video/651359954
+3. Typing Your Callback Functions
+https://player.vimeo.com/video/652200640
+4. Props with Compiler Macros
+https://player.vimeo.com/video/655076710
+5. Type-Safe Emit
+https://player.vimeo.com/video/655481851
+6. (Bonus) Vue vs React: Framework Philosophy
+https://player.vimeo.com/video/659422198
+
+
+Nuxt 3 Essentials
+1. Overview
+https://player.vimeo.com/video/724632225
+2. Installation and Configuration
+https://player.vimeo.com/video/726352934
+3. Creating the URL Structure For Pages
+https://player.vimeo.com/video/734494250
+4. Custom Layout and Landing Page Content
+https://player.vimeo.com/video/734799568
+5. Creating the Detail Page
+https://player.vimeo.com/video/736952958
+6. Deployment
+https://player.vimeo.com/video/738030323
+
+
+Build a Blog w/ Nuxt 3 Content
+1. Introduction
+https://player.vimeo.com/video/730092463
+2. Project Overview and Setup
+https://player.vimeo.com/video/731083441
+3. Creating Blog Posts with Markdown
+https://player.vimeo.com/video/732189621
+4. Using Vue Components in Markdown
+https://player.vimeo.com/video/732190277
+5. Build the Blog Post List Component
+https://player.vimeo.com/video/732190828
+6. Build the Blog Post Detail Page
+https://player.vimeo.com/video/732191929
+7. Deploying Your Blog
+https://player.vimeo.com/video/732193029
+8. Final Thoughts
+https://player.vimeo.com/video/732193557
+
+
+Advance
+Vue 3 Deep Dive with Evan You
+1. Vue 3 Overview
+https://player.vimeo.com/video/413320671
+2. Virtual DOM & Render Functions
+https://player.vimeo.com/video/413172106
+3. How to use Render Functions
+https://player.vimeo.com/video/410406205
+4. Compiler & Renderer API
+https://player.vimeo.com/video/410199064
+5. Creating a Mount function
+https://player.vimeo.com/video/410256224
+6. Creating a Patch function
+https://player.vimeo.com/video/410291443
+7. Intro to Reactivity
+https://player.vimeo.com/video/410676185
+8. Building Reactivity from Scratch
+https://player.vimeo.com/video/410680764
+9. Building the Reactive API
+https://player.vimeo.com/video/410687425
+10. Creating a Mini Vue
+https://player.vimeo.com/video/410711530
+11. The Composition API
+https://player.vimeo.com/video/410715243
+12. Code Organization
+https://player.vimeo.com/video/410722048
+13. Logic Reuse
+https://player.vimeo.com/video/411046002
+14. Composition API Example
+https://player.vimeo.com/video/411053073
+15. Parting Words
+https://player.vimeo.com/video/411057133
+
+
+Vue 3 Reactivity
+1. Vue 3 Reactivity
+https://player.vimeo.com/video/388752844
+2. Proxy and Reflect
+https://player.vimeo.com/video/388759486
+3. activeEffect & ref
+https://player.vimeo.com/video/392347730
+4. Computed Values & Vue 3 Source
+https://player.vimeo.com/video/400699168
+5. Q & A with Evan You
+https://player.vimeo.com/video/397194972
+6. Reading Source Code with Evan You
+https://player.vimeo.com/video/397197076
+
+
+
+Coding Better Composables
+1. What is a Composable?
+https://player.vimeo.com/video/715679213
+2. Flexible Arguments
+https://player.vimeo.com/video/716185582
+3. Dynamic Return Values
+https://player.vimeo.com/video/717999765
+4. Start with the Interface
+https://player.vimeo.com/video/718903734
+5. Async Without Await
+https://player.vimeo.com/video/738788995
+
+
+Querying with GraphQL
+1. Intro to GraphQL
+https://player.vimeo.com/video/646223150
+2. Fetching data with queries
+https://player.vimeo.com/video/654277646
+3. Improving Developer Experience
+https://player.vimeo.com/video/660982597
+4. Query variables, handling loading and errors
+https://player.vimeo.com/video/665024963
+5. Advanced queries
+https://player.vimeo.com/video/667451987
+6. Updating data with mutations
+https://player.vimeo.com/video/671302565
+7. Bonus: Q&A with Natalia Tepluhina
+https://player.vimeo.com/video/662715637
+8. Manual cache updates and optimistic responses
+https://player.vimeo.com/video/677502507
+9. Real-time updates with subscriptions
+https://player.vimeo.com/video/680222202
+10. Setting up local state with Apollo Client
+https://player.vimeo.com/video/685669739
+11. Modifying local state with Apollo Client
+https://player.vimeo.com/video/691596192
+
+
+Build a Gmail Clone with Vue 3
+1. Tour the Project
+https://player.vimeo.com/video/417686205
+2. Building the Inbox
+https://player.vimeo.com/video/418119086
+3. Async Setup & Suspense
+https://player.vimeo.com/video/424719912
+4. Axios & JSON Server
+https://player.vimeo.com/video/432334269
+5. Opening an Email
+https://player.vimeo.com/video/432334539
+6. Email Modal
+https://player.vimeo.com/video/432334746
+7. Keyboard Shortcuts
+https://player.vimeo.com/video/435917211
+8. useKeydown Composable
+https://player.vimeo.com/video/435925588
+9. Email Action Bar
+https://player.vimeo.com/video/439008950
+10. Flexible Events
+https://player.vimeo.com/video/439009520
+11. Multi-select with Reactive Sets
+https://player.vimeo.com/video/441251067
+12. App-wide Non-persisted State
+https://player.vimeo.com/video/441252800
+13. ‘Select All’ Checkbox
+https://player.vimeo.com/video/449574598
+14. Bulk Actions
+https://player.vimeo.com/video/449582938
+15. Archived View
+https://player.vimeo.com/video/450616466
+16. Conclusion
+https://player.vimeo.com/video/455342339
+
+
+Advanced Components
+1. Introduction
+https://player.vimeo.com/video/263589430
+2. Build a Reactivity System
+https://player.vimeo.com/video/264113772
+3. Evan You on Proxies
+https://player.vimeo.com/video/276288371
+4. Reactivity in Vue.js
+https://player.vimeo.com/video/264184004
+5. Evan You on Vue Core
+https://player.vimeo.com/video/276302877
+6. Template Compilation
+https://player.vimeo.com/video/265079382
+7. Evan You on the Virtual DOM
+https://player.vimeo.com/video/277359426
+8. Functional Components
+https://player.vimeo.com/video/265359995
+9. Evan You on Functional Components
+https://player.vimeo.com/video/277362944
+10. The Mounting Process
+https://player.vimeo.com/video/266460791
+11. Evan You on the Mounting Process
+https://player.vimeo.com/video/277714650
+12. Scoped Slots & Render Props
+https://player.vimeo.com/video/272766967
